@@ -1,4 +1,4 @@
-# coding=gb18030
+# -*- coding=gb18030 -*-
 import requests
 import json,re,pprint,time
 import pandas as pd
